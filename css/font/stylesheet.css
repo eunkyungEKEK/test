@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Brush Script MT';
+    src: url('BrushScriptMT.woff2') format('woff2'),
+        url('BrushScriptMT.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+/*font-face 폰트를 가져와서 사용할 수 있게 함.*/
